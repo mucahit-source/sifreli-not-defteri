@@ -16,7 +16,7 @@ Doğru şifre girildiğinde notları görüntüleyebilir ve yeni notlar ekleyebi
 ## Kullanım
 1. Depoyu klonlayın:
 bash
-git clone https://github.com/KULLANICI_ADIN/sifreli-not-defteri.git
+git clone https://github.com/mucahit-source/sifreli-not-defteri
 cd sifreli-not-defteri
 Programı çalıştırın:
 
