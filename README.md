@@ -27,11 +27,11 @@ python sifreli_not_defteri.py
 
 ---
 
-Güvenlik Notu
+## Güvenlik Notu
 
 Bu uygulama üretim/gerçek hayatta güçlü bir güvenlik sağlamaz. Parolalar lokal olarak hashlenmiş şekilde saklansa da bu bir tam güvenlik çözümü değildir. Gerçek gizlilik gereksinimleri için profesyonel şifreleme ve güvenli anahtar yönetimi gerekir.
 ---
-Geliştirme Fikirleri
+## Geliştirme Fikirleri
 
 Notları AES gibi bir algoritma ile şifrelemek
 
